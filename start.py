@@ -3,13 +3,13 @@
 ║                                                                                 ║
 ║                             Free proxies and user agents                        ║
 ║  Author:                                                                        ║
-║  https://github.com/ebankoff                                                    ║                                                     
+║  https://github.com/un1ucm                                                      ║                                                     
 ║                                                                                 ║
 ║  The author of this program are not responsible for its use!                    ║
 ║  When placing this code on third-party resources, please indicate the author!   ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
-║                           Copyright (C) 2022 ebankoff                           ║
+║                           Copyright (C) 2025 un1ucm                             ║
 ║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
@@ -53,10 +53,7 @@ def ex():
 			os.system("clear")
 		print(
 			'     I would be grateful if you star on this repository on GitHub:',
-			'\n      https://github.com/ebankoff/free-proxies-and-useragents',
-			'\n',
-			'\n          You can support me by sending any amount to my Qiwi:',
-			'\n                        qiwi.com/n/HERAMANT',
+			'\n      https://github.com/un1ucm/free-proxies-and-useragents',
 			'\n',
 			'\n                    Copyright (C) 2022 ebankoff')
 		print("\nPress Enter to exit")
@@ -110,7 +107,7 @@ def main():
 		Fore.WHITE + '\n█▀  █▀▄ ██▄ ██▄   █▀▀ █▀▄ █▄█ █ █ █ ██▄ ▄█   █▀█ █ ▀█ █▄▀   █▄█ ▄█ ██▄ █▀▄ █▀█ █▄█ ██▄ █ ▀█  █  ▄█\n')
 
 	print(Fore.RED + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-	print(Fore.WHITE + " Created by ebankoff - https://github.com/ebankoff")
+	print(Fore.WHITE + " Created by un1ucm - https://github.com/un1ucm")
 	print(Fore.WHITE + " There could have been your ad here")
 	print(Fore.RED + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
